@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Kanit:wght@100&family=Ubuntu:wght@300&display=swap');
+
+body{
+    background-image: url(img.avif);
+    background-size: cover;
+}
+
+
+.display-6{
+    
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px !important;
+    color: black !important;
+    color: white !important;
+    text-shadow: 2px 4px 3px #141313 !important;
+}
+
+.card-body{
+    background-color: rgba(255, 255, 255, 0.383) !important;
+    backdrop-filter: blur(10px) !important;
+}
